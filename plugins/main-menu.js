@@ -2,7 +2,7 @@
 
 const menuVideos = [
     'https://files.catbox.moe/slo1l0.mp4',
-    'https://files.catbox.moe/awoz6k.mp4',
+    'https://files.catbox.moe/4upw6k.mp4',
     'https://files.catbox.moe/mci2sn.mp4',
     'https://files.catbox.moe/n1rtnl.mp4'
 ];
