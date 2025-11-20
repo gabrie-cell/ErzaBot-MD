@@ -45,7 +45,7 @@ global.mitaJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = '⪛✰ ErzaBot ✰⪜'
-global.botname = 'erzaBot-MD'
+global.botname = '⏤͟͟͞͞☆ ERZA 𝑩𝒐𝒕-MD '
 global.wm = ''
 global.author = 'Made With By Gabriel'
 global.dev = 'Made With By Gabriel'
