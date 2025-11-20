@@ -43,7 +43,7 @@ let handler = async (m, { conn, args }) => {
 ┃Tiempo activo: ${uptime}
 ┃Registros ${totalreg}
 ┃Comandos ${totalCommands}
-┃✦ Canal: https://whatsapp.com/channel/0029VbAt0n3It5rv4WOUcH00
+┃✦ Canal:  https://whatsapp.com/channel/0029Vb6nOKBD8SDp0aFtCD3R
 ╰━━━━━━━━━━━━━
 
 Quieres ser un sub bot?
