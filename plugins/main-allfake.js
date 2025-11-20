@@ -28,19 +28,19 @@ console.log(`Error : ${e}`)
 }}
   
 //creador y otros
-global.creador = 'Wa.me/50557333744'
+global.creador = 'Wa.me/51941247696'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/50557333744'
-global.namechannel = 'ᰔᩚ MitaBot :D ❀'
-global.namechannel2 = 'ᰔᩚ Novedades sobre Mita❀'
-global.namegrupo = 'MitaBot MD'
-global.namecomu = 'ᰔᩚ 𝙳𝚝𝚘𝚍𝟷𝙿𝚘𝚌𝚘 • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
-global.listo = '*Aquí tienes*'
+global.namechannel = 'ᰔᩚ ⏤͟͟͞͞☆ ERZA 𝑩𝒐𝒕 – 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ❀'
+global.namechannel2 = 'ᰔᩚ ⏤͟͟͞͞☆ ERZA 𝑩𝒐𝒕 – 𝑪𝒉𝒂𝒏𝒏𝒆𝒍'
+global.namegrupo = 'ErzaBot MD'
+global.namecomu = 'ᰔᩚ erzabot • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
+global.listo = '*Aquí tienes :3*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
 
 //Ids channel
-global.canalIdM = ["120363417289452573@newsletter", "120363368618055639@newsletter"]
-global.canalNombreM = ["MitaBot-MD", "ᰔᩚ Novedades Sobre Mis Bots :D❀"]
+global.canalIdM = ["120363420590235387@newsletter", "120363420590235387@newsletter"]
+global.canalNombreM = ["⏤͟͟͞͞☆ ERZA 𝑩𝒐𝒕 – 𝑪𝒉𝒂𝒏𝒏𝒆𝒍", "ᰔᩚ ⏤͟͟͞͞☆ ERZA 𝑩𝒐𝒕 – 𝑪𝒉𝒂𝒏𝒏𝒆𝒍"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -58,7 +58,7 @@ global.done = '✅'
 global.error = '✖️'
 global.msm = '⚠︎'
 
-//Emojis determinado de KennyBot
+//Emojis determinado de erzaBot
 global.emoji = '❀'
 global.emoji2 = '✧'
 global.emoji3 = '✦'
@@ -67,16 +67,16 @@ global.emoji5 = '✰'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '❍ Espera un momento, soy lento...';
-global.waitt = '❍ Espera un momento, soy lento...';
-global.waittt = '❍ Espera un momento, soy lento...';
-global.waitttt = '❍ Espera un momento, soy lento...';
+global.wait = '❍ Espera un momento, soy lenta...';
+global.waitt = '❍ Espera un momento, soy lenta...';
+global.waittt = '❍ Espera un momento, soy lenta...';
+global.waitttt = '❍ Espera un momento, soy lenta...';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VbAt0n3It5rv4WOUcH00'  
-let canal2 = 'https://whatsapp.com/channel/0029VbAt0n3It5rv4WOUcH00'
-var git = 'https://github.com/jonathanggg'
-var github = 'https://github.com/jonathanggg/MitaBot-MD' 
+var canal = 'https://whatsapp.com/channel/0029Vb6nOKBD8SDp0aFtCD3R'  
+let canal2 = 'https://whatsapp.com/channel/0029Vb6nOKBD8SDp0aFtCD3R'
+var git = 'https://github.com/gabrie-ux'
+var github = 'https://github.com/gabrie-cell/ErzaBot-MD' 
 let correo = 'jg4824261@gmail.com'
 
 global.redes = [canal, canal2, git, github, correo].getRandom()
