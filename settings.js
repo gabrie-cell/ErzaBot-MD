@@ -36,7 +36,7 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.languaje = 'Español'
 global.vs = '1.0.0'
-global.nameqr = 'MitaBot-MD'
+global.nameqr = 'ErzaBot-MD'
 global.namebot = 'MitaBot'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
@@ -44,17 +44,17 @@ global.mitaJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ MitaBot ✰⪜'
-global.botname = 'MitaBot-MD'
+global.packname = '⪛✰ ErzaBot ✰⪜'
+global.botname = 'erzaBot-MD'
 global.wm = ''
-global.author = 'Made With By JonathanG'
-global.dev = 'Made With By JonathanG'
-global.textbot =  'Mitabot • Made With By JonathanG'
-global.etiqueta = 'JonathanG'
+global.author = 'Made With By Gabriel'
+global.dev = 'Made With By Gabriel'
+global.textbot =  'Erzabot • Made With By Gabriel'
+global.etiqueta = 'gabriel'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'Mita Coins'
+global.moneda = 'Erza Coins'
 global.welcom1 = '☟︎︎︎ Edita Con El Comando setwelcome'
 global.welcom2 = '☟︎︎︎ Edita Con El Comando setbye'
 global.banner = 'https://files.catbox.moe/xr1spw.jpg'
