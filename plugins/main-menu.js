@@ -3,8 +3,8 @@
 const menuVideos = [
     'https://files.catbox.moe/slo1l0.mp4',
     'https://files.catbox.moe/4upw6k.mp4',
-    'https://files.catbox.moe/mci2sn.mp4',
-    'https://files.catbox.moe/n1rtnl.mp4'
+    '',
+    'https://files.catbox.moe/4ydc8g.mp4'
 ];
 const menuImages = [
     'https://files.catbox.moe/fba87o.jpg',
